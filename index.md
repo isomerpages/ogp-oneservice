@@ -10,19 +10,10 @@ sections:
       background: /images/hero-bannerr.png
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: Play store
+          description: Download the Android app here!
+          url: https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService&hl=en
+        - title: App store
+          description: Download the Apple app here!
+          url: https://apps.apple.com/sg/app/oneservice/id947274394
 ---
